@@ -8,8 +8,8 @@
 
 <a href="https://github.com/jxnhoongz">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=70&lines=Hey%2C+I'm+Jing+Hong+%F0%9F%91%8B;Polyglot+builder+%E2%80%94+I+like+shipping;Android+%C2%B7+Web+%C2%B7+Games+%C2%B7+AI+agents"
-    alt="Hey, I'm Jing Hong — polyglot builder: Android, Web, Games, AI agents"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=70&lines=Hey%2C+I'm+Jin+Hong+%F0%9F%91%8B;Polyglot+builder+%E2%80%94+I+like+shipping;Android+%C2%B7+Web+%C2%B7+Games+%C2%B7+AI+agents"
+    alt="Hey, I'm Jin Hong — polyglot builder: Android, Web, Games, AI agents"
   />
 </a>
 
