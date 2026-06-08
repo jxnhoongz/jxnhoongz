@@ -33,8 +33,8 @@
 const jxn = {
   role:        "Full-stack builder & tinkerer",
   building:    ["agentic dev workflows", "small games", "web + mobile apps"],
-  languages:   ["Java", "TypeScript", "Python", "Dart", "GDScript"],
-  stack:       ["Spring Boot", "Next.js", "React", "Flutter", "Godot"],
+  languages:   ["Java", "TypeScript", "Go", "Python", "Dart", "GDScript"],
+  stack:       ["Spring Boot", "Vue", "Next.js", "Astro", "Flutter", "Godot"],
   currently:   "exploring how far AI agents can take software dev",
   philosophy:  "fix the problem, not the symptom",
 };
@@ -56,6 +56,7 @@ const jxn = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
@@ -63,7 +64,9 @@ const jxn = {
 **Frameworks &amp; Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
